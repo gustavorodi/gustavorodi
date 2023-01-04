@@ -1,4 +1,4 @@
-## Olá eu sou o Gustavo Rodrigues, Engenheiro de Software!
+## Olá, eu sou o Gustavo Rodrigues, Engenheiro de Software!
 <div align="center">
   <a href="https://github.com/gustavorodi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
